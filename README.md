@@ -23,9 +23,14 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
-
-
+  <br/><br/><hr/><br/>
+  
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=maulik3173&theme=dark&hide_border=false&include_all_commits=false&count_private=true)<br/><br/><hr><br/><br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=maulik3173&theme=dark&hide_border=false)<br/><br/><hr><br/><br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=maulik3173&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)<br/><hr>
+<br>
+<br>
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=maulik3173&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
