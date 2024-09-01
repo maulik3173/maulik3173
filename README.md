@@ -24,6 +24,15 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
+
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=maulik3173&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+
+<br><br><br>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=maulik3173&limit=5&theme=dark&combine_all_yearly_contributions=true)
 </div>
 
 <hr/>
