@@ -5,7 +5,7 @@
  <hr/>
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maulik_matariya_3173) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Maulik Matariya](https://www.linkedin.com/in/maulik-matariya)) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/maulik_matariya_3173) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Maulik-Matariya](https://www.linkedin.com/in/maulik-matariya)) 
 
  <hr/>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
